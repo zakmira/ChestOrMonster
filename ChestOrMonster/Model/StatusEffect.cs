@@ -3,5 +3,6 @@
 public enum StatusEffect
 {
     None,
-    Frozen
+    Frozen,
+    Poison
 }
